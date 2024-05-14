@@ -12,5 +12,5 @@ server.listen(port, (err) => {
   if (err) {
     return console.log('something bad happened - N2', err)
   }
-  console.log(`server is listening on ${port}`)
+  console.log(`server is listening on ${port} N2`)
 })
